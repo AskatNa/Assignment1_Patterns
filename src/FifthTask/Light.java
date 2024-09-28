@@ -1,4 +1,6 @@
-public class Light {
+package FifthTask;
+
+public class Light implements Switchable {
     public void turnOn(){
         System.out.println("Light is on.");
     }

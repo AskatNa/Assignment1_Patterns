@@ -1,35 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7f1322d-4251-47c9-8e82-1d6ec3400f35" name="Changes" comment="" />
+    <list default="true" id="b7f1322d-4251-47c9-8e82-1d6ec3400f35" name="Changes" comment="Forgot to commit this class">
+      <change afterPath="$PROJECT_DIR$/src/FifthTask/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FifthTask/Switchable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Button.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstTask/EmailValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstTask/EmailValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstTask/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstTask/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FourthTask/Eatable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FourthTask/Eatable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FourthTask/HumanWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FourthTask/HumanWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FourthTask/RobotWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FourthTask/RobotWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FourthTask/Workable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FourthTask/Workable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Light.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FifthTask/Light.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SecondTask/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondTask/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SecondTask/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondTask/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SecondTask/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondTask/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Switchable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThirdTask/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThirdTask/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThirdTask/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThirdTask/Flyable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThirdTask/Penguin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThirdTask/Penguin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThirdTask/Sparrow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThirdTask/Sparrow.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2mhXHZbX3WkAoX5Y1oMSPIoaEiQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Аскат Наринбетов/IdeaProjects/Assignment1_Patterns/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Аскат Наринбетов/IdeaProjects/Assignment1_Patterns/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,22 +83,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727529698808</updated>
-      <workItem from="1727529699942" duration="2000" />
+      <workItem from="1727529699942" duration="183000" />
+      <workItem from="1727529912797" duration="1769000" />
+      <workItem from="1727539495468" duration="1204000" />
     </task>
+    <task id="LOCAL-00001" summary="Forgot to commit this class">
+      <option name="closed" value="true" />
+      <created>1727540232162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727540232162</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Forgot to commit this class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Forgot to commit this class" />
   </component>
 </project>

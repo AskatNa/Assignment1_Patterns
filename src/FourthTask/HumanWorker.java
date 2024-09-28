@@ -1,4 +1,8 @@
-public class HumanWorker implements Workable,Eatable{
+package FourthTask;
+
+import FourthTask.Eatable;
+
+public class HumanWorker implements Workable, Eatable {
     @Override
     public void work() {
         System.out.println("Human is working.");

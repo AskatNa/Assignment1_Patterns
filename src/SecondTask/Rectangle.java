@@ -1,4 +1,8 @@
-public class Rectangle extends Shape{
+package SecondTask;
+
+import SecondTask.Shape;
+
+public class Rectangle extends Shape {
     private double length;
     private double width;
 
