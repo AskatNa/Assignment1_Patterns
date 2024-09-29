@@ -4,27 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7f1322d-4251-47c9-8e82-1d6ec3400f35" name="Changes" comment="Forgot to commit this class">
-      <change afterPath="$PROJECT_DIR$/src/FifthTask/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FifthTask/Switchable.java" afterDir="false" />
+    <list default="true" id="b7f1322d-4251-47c9-8e82-1d6ec3400f35" name="Changes" comment="All tasks">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Button.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstTask/EmailValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstTask/EmailValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstTask/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstTask/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FourthTask/Eatable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FourthTask/Eatable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FourthTask/HumanWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FourthTask/HumanWorker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FourthTask/RobotWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FourthTask/RobotWorker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FourthTask/Workable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FourthTask/Workable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Light.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FifthTask/Light.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SecondTask/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondTask/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SecondTask/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondTask/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SecondTask/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondTask/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Switchable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThirdTask/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThirdTask/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThirdTask/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThirdTask/Flyable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThirdTask/Penguin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThirdTask/Penguin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThirdTask/Sparrow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThirdTask/Sparrow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +42,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Аскат Наринбетов/Desktop/GitProject&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -85,7 +69,11 @@
       <updated>1727529698808</updated>
       <workItem from="1727529699942" duration="183000" />
       <workItem from="1727529912797" duration="1769000" />
-      <workItem from="1727539495468" duration="1204000" />
+      <workItem from="1727539495468" duration="1576000" />
+      <workItem from="1727545164703" duration="568000" />
+      <workItem from="1727588151306" duration="138000" />
+      <workItem from="1727588373272" duration="2000" />
+      <workItem from="1727613948587" duration="946000" />
     </task>
     <task id="LOCAL-00001" summary="Forgot to commit this class">
       <option name="closed" value="true" />
@@ -95,7 +83,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727540232162</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="All tasks">
+      <option name="closed" value="true" />
+      <created>1727540876923</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727540876923</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Forgot to commit this class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Forgot to commit this class" />
+    <MESSAGE value="All tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="All tasks" />
   </component>
 </project>
